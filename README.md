@@ -4,11 +4,6 @@ A simple yet powerful weather application built using **React**. This app allows
 
 ---
 
-## 🔗 Live Demo
-
-👉 [Click here to view the live app](https://YashPratapRai.github.io/Weather-app)
-
----
 
 ## ✨ Features
 
