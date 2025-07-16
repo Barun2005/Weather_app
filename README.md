@@ -27,7 +27,7 @@ A simple yet powerful weather application built using **React**. This app allows
 To run the project locally:
 
 ```bash
-
+https://Barun.github.io/Weather-app
 cd Weather-app
 npm install
 npm start
